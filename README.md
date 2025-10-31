@@ -20,6 +20,7 @@ A two-wheeled robot that maintains balance autonomously using PID control and se
   - Battery pack.
     
 ### How It Works
+![](image/SelfBalancingRobot_Diagram.jpg)
 ### Robot Setup Images
 <!--![](img/SelfBlancing%20Bot%20pic1.jpg) -->
 ### Results / Outcomes
