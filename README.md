@@ -50,6 +50,11 @@ A two-wheeled robot that maintains balance autonomously using PID control and se
 
 <img src="img/SelfBlancing%20Bot%20pic1.jpg" alt="Self Balancing Robot Pic" width="450" height="500">
 
+
+### Schematic 
+<img src="img/SelfBalancingRobot%20schematic.png" alt="System Schematic" width="450">
+
+
 ### 📈 Results / Outcomes
 - Maintains balance within ±5° of upright position after tuning.
 - Improved stability by ~50% after optimizing PID variables.
